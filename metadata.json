@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PokeDex Pro",
+  "description": "A professional, interactive PokeDex application consuming the PokeAPI using React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
